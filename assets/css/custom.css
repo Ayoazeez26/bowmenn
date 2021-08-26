@@ -194,11 +194,11 @@ html {
   left: 12px;
   width: 1px;
   height: 98%;
-  background-color: #71A1FA;
+  background-color: #1C6288;
 }
 /* BOWMENN FOR DRIVERS*/
 .drive-bg {
-  background-image: url(../../assets/img/green-overlay.svg),
+  background-image: url(../../assets/img/drive-overlay.svg),
     url(../../assets/img/smiling-senior-afro-man-driving-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -210,14 +210,14 @@ html {
   left: 12px;
   width: 1px;
   height: 98%;
-  background-color: #6AD011;
+  background-color: #71A1FA;
 }
 .create-btn {
   box-shadow: -40px 43px 86px #26314021;
 }
 /* BOWMENN FOR INDIVIDUALS*/
 .indiv-bg {
-  background-image: url(../../assets/img/indiv-bg.svg),
+  background-image: url(../../assets/img/drive-overlay.svg),
     url(../../assets/img/black-man-smiling-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
